@@ -7,32 +7,6 @@ I enjoy finding edge cases, debugging complex flows, and making sure designs beh
 
 ---
 
-## 🔧 Technical Skills
-
-**Hardware & Verification**
-- Verilog, SystemVerilog, UVM  
-- Functional Coverage, Scoreboards, Reference Models  
-- RAL (Frontdoor / Backdoor)  
-- Cadence Xcelium  
-
-**Programming**
-- C, C++, Java, Python  
-- JavaScript, C#.NET  
-
-**Web & Databases**
-- React, Angular, HTML, CSS, Bootstrap  
-- NodeJS  
-- SQL Server, MongoDB  
-
-**Tools**
-- Linux  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Entity Framework, Redux  
-
----
-
 ## 🧪 Projects & Experience
 
 ### 🚦 Router Verification Environment (UVM)  
@@ -56,6 +30,32 @@ I enjoy finding edge cases, debugging complex flows, and making sure designs beh
 - Full-stack development using C#.NET, SQL, and React  
 - Implemented listings, image storage, and subscription-based access
 - https://github.com/sh6252/Apartment-brokerage
+
+---
+
+## 🔧 Technical Skills
+
+**Hardware & Verification**
+- Verilog, SystemVerilog, UVM  
+- Functional Coverage, Scoreboards, Reference Models  
+- RAL (Frontdoor / Backdoor)  
+- Cadence Xcelium  
+
+**Programming**
+- C, C++, Java, Python  
+- JavaScript, C#.NET  
+
+**Web & Databases**
+- React, Angular, HTML, CSS, Bootstrap  
+- NodeJS  
+- SQL Server, MongoDB  
+
+**Tools**
+- Linux  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Entity Framework, Redux  
 
 ---
 
