@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shifra  
-🧪💻 Verification & Software Engineering Student
+🧪 Verification & 💻 Software Engineering Student
 
 I like working on **complex systems** and understanding how things behave end-to-end 🔍  
 From ⚙️ **hardware verification** to 🌐 **full-stack software**,  
@@ -7,6 +7,14 @@ I enjoy debugging, finding edge cases, and building things that actually work.
 
 ## 🧩 Projects & Experience
 
+### ⛴️ contributing to [shipping-line-api](https://github.com/hajk1/shipping-line-api)
+ *Extra-Tech OSS OJT program | 01/2026-Now*
+ - PRs:
+      - [CST-001:](https://github.com/hajk1/shipping-line-api/pull/25) Customer Entity
+      - [ENH-003:](https://github.com/hajk1/shipping-line-api/pull/37) list containers on a voyage
+      - [TRK-001:](https://github.com/hajk1/shipping-line-api/pull/41) barcode and QR code generation service
+      - [TRK-002:](https://github.com/hajk1/shipping-line-api/pull/55) public tracking endpoint
+        
 ### 🚦 Router Verification Environment (UVM)  
  *Qualcomm–KamaTech Bootcamp | 08–11/2025*  
 - Built a full **UVM-based verification environment** in SystemVerilog  
