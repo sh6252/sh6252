@@ -51,7 +51,7 @@ PRs:
 **💻 Programming:** C, C++, Java, Python, JavaScript, C#.NET, Assembly  
 **🌐 Web & Backend:** React, Angular, NodeJS, TypeScript, HTML, CSS, Bootstrap  
 **🗄 Databases:** SQL Server, MongoDB  
-**⚙️ Tools:** Linux, Git, VS Code, Postman, Redux, Entity Framework
+**⚙️ Tools:** Linux, Git, VS Code, Postman, Docker
 
 ##
 📬 **Contact:** Shile6252@gmail.com  
