@@ -7,7 +7,7 @@ I enjoy debugging, finding edge cases, and building things that actually work.
 
 ## 🧩 Projects & Experience
 
-### ⛴️ contributing to [shipping-line-api](https://github.com/hajk1/shipping-line-api)
+### ⛴️ contributing to [shipping-line-api](https://github.com/hajk1/shipping-line-api) open source
  *Extra-Tech OSS OJT program | 01/2026-Now*
  
 PRs:
