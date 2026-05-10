@@ -8,13 +8,9 @@ I enjoy debugging, finding edge cases, and building things that actually work.
 ## 🧩 Projects & Experience
 
 ### ⛴️ contributing to [shipping-line-api](https://github.com/hajk1/shipping-line-api) open source
- *Extra-Tech OSS OJT program | 01/2026-Now*
- 
-PRs:
-- [CST-001:](https://github.com/hajk1/shipping-line-api/pull/25) Customer Entity
-- [ENH-003:](https://github.com/hajk1/shipping-line-api/pull/37) list containers on a voyage
-- [TRK-001:](https://github.com/hajk1/shipping-line-api/pull/41) barcode and QR code generation service
-- [TRK-002:](https://github.com/hajk1/shipping-line-api/pull/55) public tracking endpoint
+ *Extra-Tech OSS OJT program | 01/2026-Now*      
+ These are my PRs🪄      
+ [https://github.com/hajk1/shipping-line-api/pulls/sh6252](https://github.com/hajk1/shipping-line-api/pulls/sh6252)
         
 ### 🚦 Router Verification Environment (UVM)  
  *Qualcomm–KamaTech Bootcamp | 08–11/2025*  
@@ -47,7 +43,7 @@ PRs:
   Data Structures • Algorithms • OS • Digital Systems • Mathematics
 
 ## 🛠️ Technical Skills
-**🧪 HW & Verification:** Verilog, SystemVerilog, UVM, Coverage, RAL, Cadence Xcelium  
+**🧪 HW & Verification:** Verilog, SystemVerilog, UVM, Coverage, RAL, SVA, Cadence Xcelium  
 **💻 Programming:** C, C++, Java, Python, JavaScript, C#.NET, Assembly  
 **🌐 Web & Backend:** React, Angular, NodeJS, TypeScript, HTML, CSS, Bootstrap  
 **🗄 Databases:** SQL Server, MongoDB  
@@ -58,4 +54,4 @@ PRs:
 💻 **GitHub:** You’re here 🙂
 ##
 
-✨ Always curious • 🐞 Always debugging • 🎓 Always learning
+> ✨ Always curious • 🐞 Always debugging • 🎓 Always learning
