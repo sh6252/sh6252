@@ -37,17 +37,17 @@ I enjoy debugging, finding edge cases, and building things that actually work.
 - 🔗 https://github.com/sh6252/Apartment-brokerage
 
 ## 🎓 Education
-- 🎯 **VLSI Verification Training** – Qualcomm (2025)  
+- 🎯 **VLSI Verification Training** – KamaTech - Qualcomm (2025) [SystemVerilog Lab Practice](https://github.com/sh6252/SystemVerilog_Labs) 
 - 🏅 **Practical Engineer Degree** – Mahat (2023–2025)  
 - 🧠 **Ultra Code – KamaTech**  
   Data Structures • Algorithms • OS • Digital Systems • Mathematics
 
 ## 🛠️ Technical Skills
-**🧪 HW & Verification:** Verilog, SystemVerilog, UVM, Coverage, RAL, SVA, Cadence Xcelium  
-**💻 Programming:** C, C++, Java, Python, JavaScript, C#.NET, Assembly  
-**🌐 Web & Backend:** React, Angular, NodeJS, TypeScript, HTML, CSS, Bootstrap  
+**🧪 HW & Verification:** Verilog, SystemVerilog, UVM, Coverage, RAL, SVA, Cadence Xcelium, RTOS 
+**💻 Programming:** C, C++, Java, Python, C#.NET, Assembly  
+**🌐 Web & Backend:** React, Angular, NodeJS, JavaScript, HTML, CSS, Bootstrap  
 **🗄 Databases:** SQL Server, MongoDB  
-**⚙️ Tools:** Linux, Git, VS Code, Postman, Docker
+**⚙️ Tools:** Linux, Git, VS Code, Wokwi, PlatformIO, Postman, Docker
 
 ##
 📬 **Contact:** Shile6252@gmail.com  
