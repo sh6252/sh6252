@@ -7,18 +7,16 @@ Passionate about debugging complex systems, finding edge cases, and understandin
 ## 🧩 Projects & Experience
 
 ### 🔌 Embedded Systems Labs
-*Extra-Tech OSS OJT Program | 05/2026–Present*
+*Extra-Tech OJT Program | 05/2026–Present | [Repository](https://github.com/sh6252/embedded-systems-labs)*
 
-- Developed embedded applications using ESP32 and Arduino
+- Developed firmware for ESP32-based embedded systems using Arduino framework
 - Integrated sensors and peripherals using GPIO, ADC and PWM
 - Implemented wireless communication using Wi-Fi and Bluetooth Low Energy (BLE)
 - Built real-time monitoring and data acquisition systems
 - Performed hardware debugging, testing and system validation
 
-🔗 https://github.com/sh6252/embedded-systems-labs
-
 ### 🚦 Router Verification Environment (UVM)
-*Qualcomm–KamaTech Bootcamp | 08–11/2025*
+*Qualcomm–KamaTech Bootcamp | 08–11/2025 | [Repository](https://github.com/sh6252/YAPP_Router)*
 
 - Built a full UVM verification environment in SystemVerilog
 - Worked on UVCs (YAPP, HBUS, CHANNEL), RAL and virtual sequencer
@@ -26,31 +24,25 @@ Passionate about debugging complex systems, finding edge cases, and understandin
 - Added functional coverage for addresses, packet sizes, parity and resets
 - Verified routing and error handling using Cadence Xcelium
 
-🔗 https://github.com/sh6252/YAPP_Router
-
-### ⛴️ Contributing to shipping-line-api (Open Source)
-*Extra-Tech OSS OJT Program | 01-04/2026*
-
-- Contributing features and fixes to an open-source backend project
-- Working with Git workflows, pull requests, and code reviews
-
-🔗 PRs: https://github.com/hajk1/shipping-line-api/pulls/sh6252
-
 ### ♟️ Physics-Based Chess Engine (C++)
-*KamaTech Bootcamp | 07/2025*
+*KamaTech Bootcamp | 07/2025 | [Repository](https://github.com/sh6252/KungFuChess)*
 
 - Developed a physics-based chess engine using OOP and design patterns
 - Modular architecture with CMake
 - Multithreading for real-time synchronization
 - Interactive rendering with OpenCV
 
-🔗 https://github.com/sh6252/KungFuChess
+### ⛴️ Contributing to shipping-line-api (Open Source)
+*Extra-Tech OSS OJT Program | 01-04/2026 | [PRs](https://github.com/hajk1/shipping-line-api/pulls/sh6252)*
+
+- Contributing features and fixes to an open-source backend project
+- Working with Git workflows, pull requests, and code reviews
 
 ## 🎓 Education
 
 - 🎯 **VLSI Verification Training** – KamaTech & Qualcomm (2025)
   - SystemVerilog, UVM, Verification Methodologies
-  - Labs: https://github.com/sh6252/SystemVerilog_Labs
+  - Labs: [SystemVerilog_labs](https://github.com/sh6252/SystemVerilog_Labs)
 
 - 🏅 **Practical Engineer Degree** – Mahat (2023–2025)
 
@@ -62,9 +54,9 @@ Passionate about debugging complex systems, finding edge cases, and understandin
 
 **🧪 Verification:** SystemVerilog, UVM, Coverage, RAL, SVA, Cadence Xcelium
 
-**🔌 Embedded:** C/C++, RTOS, ESP32, Arduino, Hardware Debugging
+**🔌 Embedded:** C, C++, RTOS, ESP32, Arduino, Wi-Fi, BLE, Hardware Debugging
 
-**💻 Software:** C/C++, Python, Java, C#.NET, React, NodeJS
+**💻 Software:** C, C++, Python, Java, C#.NET, React, NodeJS
 
 **⚙️ Tools:** Linux, Git, Docker, PlatformIO, Wokwi, Postman
 
