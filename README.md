@@ -1,57 +1,76 @@
-# 👋 Hi, I'm Shifra  
-🧪 Verification & 💻 Software Engineering Student
+# 👋 Hi, I'm Shifra
+> 🧪 Verification • 🔌 Embedded • 💻 Software Engineering
 
-I like working on **complex systems** and understanding how things behave end-to-end 🔍  
-From ⚙️ **hardware verification** to 🌐 **full-stack software**,  
-I enjoy debugging, finding edge cases, and building things that actually work.
+Interested in hardware verification, embedded systems, and low-level software development.
+Passionate about debugging complex systems, finding edge cases, and understanding system behavior from hardware interfaces to application software.
 
 ## 🧩 Projects & Experience
 
-### ⛴️ contributing to [shipping-line-api](https://github.com/hajk1/shipping-line-api) open source
- *Extra-Tech OSS OJT program | 01/2026-Now*      
- These are my PRs🪄      
- [https://github.com/hajk1/shipping-line-api/pulls/sh6252](https://github.com/hajk1/shipping-line-api/pulls/sh6252)
-        
-### 🚦 Router Verification Environment (UVM)  
- *Qualcomm–KamaTech Bootcamp | 08–11/2025*  
-- Built a full **UVM-based verification environment** in SystemVerilog  
-- Worked on vPlan, UVCs (YAPP, HBUS, CHANNEL), RAL  
-- Implemented reference model, scoreboard, virtual sequencer  
-- Added functional coverage (addresses, sizes, parity, resets)  
-- Verified routing & error handling using **Cadence Xcelium**
-- 🔗 https://github.com/sh6252/YAPP_Router
+### 🔌 Embedded Systems Labs
+*Extra-Tech OSS OJT Program | 05/2026–Present*
 
-### ♟️Physics-Based Chess Engine (C++)  
- *KamaTech Bootcamp | 07/2025*  
-- Developed a physics-based chess engine using **OOP & design patterns**  
-- Modular architecture with **CMake**  
-- Multithreading for real-time synchronization  
-- Interactive rendering with **OpenCV**
-- 🔗 https://github.com/sh6252/KungFuChess
+- Developed embedded applications using ESP32 and Arduino
+- Integrated sensors and peripherals using GPIO, ADC and PWM
+- Implemented wireless communication using Wi-Fi and Bluetooth Low Energy (BLE)
+- Built real-time monitoring and data acquisition systems
+- Performed hardware debugging, testing and system validation
 
-### 🏠 Apartment Rental Brokerage Website  
- *05/2025*  
-- Full-stack development with **C#.NET, SQL, React**  
-- Property listings & server-side image storage  
-- Subscription-based access model
-- 🔗 https://github.com/sh6252/Apartment-brokerage
+🔗 https://github.com/sh6252/embedded-systems-labs
+
+### 🚦 Router Verification Environment (UVM)
+*Qualcomm–KamaTech Bootcamp | 08–11/2025*
+
+- Built a full UVM verification environment in SystemVerilog
+- Worked on UVCs (YAPP, HBUS, CHANNEL), RAL and virtual sequencer
+- Implemented reference model and scoreboard
+- Added functional coverage for addresses, packet sizes, parity and resets
+- Verified routing and error handling using Cadence Xcelium
+
+🔗 https://github.com/sh6252/YAPP_Router
+
+### ⛴️ Contributing to shipping-line-api (Open Source)
+*Extra-Tech OSS OJT Program | 01-04/2026*
+
+- Contributing features and fixes to an open-source backend project
+- Working with Git workflows, pull requests, and code reviews
+
+🔗 PRs: https://github.com/hajk1/shipping-line-api/pulls/sh6252
+
+### ♟️ Physics-Based Chess Engine (C++)
+*KamaTech Bootcamp | 07/2025*
+
+- Developed a physics-based chess engine using OOP and design patterns
+- Modular architecture with CMake
+- Multithreading for real-time synchronization
+- Interactive rendering with OpenCV
+
+🔗 https://github.com/sh6252/KungFuChess
 
 ## 🎓 Education
-- 🎯 **VLSI Verification Training** – KamaTech - Qualcomm (2025) [SystemVerilog Lab Practice](https://github.com/sh6252/SystemVerilog_Labs) 
-- 🏅 **Practical Engineer Degree** – Mahat (2023–2025)  
-- 🧠 **Ultra Code – KamaTech**  
-  Data Structures • Algorithms • OS • Digital Systems • Mathematics
+
+- 🎯 **VLSI Verification Training** – KamaTech & Qualcomm (2025)
+  - SystemVerilog, UVM, Verification Methodologies
+  - Labs: https://github.com/sh6252/SystemVerilog_Labs
+
+- 🏅 **Practical Engineer Degree** – Mahat (2023–2025)
+
+- 🧠 **Ultra Code – KamaTech**
+  
+   Data Structures • Algorithms • OS • Digital Systems • Mathematics
 
 ## 🛠️ Technical Skills
-**🧪 HW & Verification:** Verilog, SystemVerilog, UVM, Coverage, RAL, SVA, Cadence Xcelium, RTOS 
-**💻 Programming:** C, C++, Java, Python, C#.NET, Assembly  
-**🌐 Web & Backend:** React, Angular, NodeJS, JavaScript, HTML, CSS, Bootstrap  
-**🗄 Databases:** SQL Server, MongoDB  
-**⚙️ Tools:** Linux, Git, VS Code, Wokwi, PlatformIO, Postman, Docker
 
-##
-📬 **Contact:** Shile6252@gmail.com  
-💻 **GitHub:** You’re here 🙂
-##
+**🧪 Verification:** SystemVerilog, UVM, Coverage, RAL, SVA, Cadence Xcelium
+
+**🔌 Embedded:** C/C++, RTOS, ESP32, Arduino, Hardware Debugging
+
+**💻 Software:** C/C++, Python, Java, C#.NET, React, NodeJS
+
+**⚙️ Tools:** Linux, Git, Docker, PlatformIO, Wokwi, Postman
+
+## 📬 Contact
+
+**Email:** Shile6252@gmail.com
+
 
 > ✨ Always curious • 🐞 Always debugging • 🎓 Always learning
